@@ -1,0 +1,4 @@
+strategy,trace_total_commands,trace_pim_mac_pb,trace_pim_mv_sb,trace_pim_mv_gb,trace_pim_wr_gb,trace_pim_sfm,trace_pim_barrier,ramulator_memory_cycles,ramulator_mac_requests,ramulator_softmax_requests
+LSERVE,2115008,2088976,7568,8192,1280,256,8736,0,0,0
+MOD2,1817152,1791504,7184,8192,1280,256,8736,0,0,0
+MOD8,1752944,1727376,7104,8192,1280,256,8736,0,0,0

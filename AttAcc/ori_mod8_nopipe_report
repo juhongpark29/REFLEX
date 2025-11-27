@@ -1,0 +1,33 @@
+{
+  "trace_file": "ramulator2/trace_gen/ori_buffer_mod8_timestep_first.trace",
+  "seqlen": 21504,
+  "scheduling_mode": "sequential",
+  "metrics": {
+    "cycles": 1090026,
+    "mac_pb": 0,
+    "mac_ab": 2752512,
+    "mac_sb": 0,
+    "sfm": 512,
+    "mvgb": 344064,
+    "mvsb": 352256,
+    "wrgb": 4096
+  },
+  "performance": {
+    "execution_time_ms": 0.8382299940000001,
+    "throughput": 25654056.94609396,
+    "total_energy": 89652820800,
+    "dram_energy": 872020800,
+    "compute_energy": 88080384000,
+    "io_energy": 700416000,
+    "total_flops": 3802958659584,
+    "energy_efficiency": 42.41872844210609,
+    "energy_per_token": 4169122.9910714286,
+    "estimated_sequential_cycles": 1090026,
+    "T_sequential": 516,
+    "num_rows": 5,
+    "Row_K": 5,
+    "Row_V": 5,
+    "scheduling_mode": "sequential",
+    "cycle_calibration_factor": 2112.453488372093
+  }
+}

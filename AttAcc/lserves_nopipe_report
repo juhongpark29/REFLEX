@@ -1,0 +1,33 @@
+{
+  "trace_file": "ramulator2/trace_gen/mos_buffer_lserves_timestep_first.trace",
+  "seqlen": 21504,
+  "scheduling_mode": "sequential",
+  "metrics": {
+    "cycles": 22175,
+    "mac_pb": 0,
+    "mac_ab": 61344,
+    "mac_sb": 0,
+    "sfm": 1616,
+    "mvgb": 4096,
+    "mvsb": 768,
+    "wrgb": 256
+  },
+  "performance": {
+    "execution_time_ms": 0.017052575,
+    "throughput": 1261041221.047261,
+    "total_energy": 1985868000,
+    "dram_energy": 17740000,
+    "compute_energy": 1963008000,
+    "io_energy": 5120000,
+    "total_flops": 3802958659584,
+    "energy_efficiency": 1915.0107960770806,
+    "energy_per_token": 92348.77232142857,
+    "estimated_sequential_cycles": 22175,
+    "T_sequential": 516,
+    "num_rows": 5,
+    "Row_K": 5,
+    "Row_V": 5,
+    "scheduling_mode": "sequential",
+    "cycle_calibration_factor": 42.974806201550386
+  }
+}

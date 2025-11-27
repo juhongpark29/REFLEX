@@ -1,0 +1,33 @@
+{
+  "trace_file": "ramulator2/trace_gen/mos_buffer_denseS_timestep_first.trace",
+  "seqlen": 21504,
+  "scheduling_mode": "sequential",
+  "metrics": {
+    "cycles": 54847,
+    "mac_pb": 0,
+    "mac_ab": 173376,
+    "mac_sb": 0,
+    "sfm": 2688,
+    "mvgb": 21504,
+    "mvsb": 768,
+    "wrgb": 256
+  },
+  "performance": {
+    "execution_time_ms": 0.042177343,
+    "throughput": 509847194.49966305,
+    "total_energy": 5614437600,
+    "dram_energy": 43877600,
+    "compute_energy": 5548032000,
+    "io_energy": 22528000,
+    "total_flops": 3802958659584,
+    "energy_efficiency": 677.3534466896559,
+    "energy_per_token": 261088.0580357143,
+    "estimated_sequential_cycles": 54847,
+    "T_sequential": 516,
+    "num_rows": 5,
+    "Row_K": 5,
+    "Row_V": 5,
+    "scheduling_mode": "sequential",
+    "cycle_calibration_factor": 106.29263565891473
+  }
+}
